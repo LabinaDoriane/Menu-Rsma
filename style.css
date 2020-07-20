@@ -1,0 +1,43 @@
+ 
+.menu{ border: 20px solid orange;}
+
+.accueil {background-color:orange;
+          color: white;
+          position: relative;
+          top: -30px;
+          left: 250px; }
+
+.regiment { color: white;
+            position: relative;
+            top: -50px;
+            left: 320px; }
+
+.former { color: white;
+          position: relative;
+          top: -70px;
+          left: 440px; }
+ 
+.emploi { color: white;
+          position: relative;
+          top: -89px;
+          left: 530px; }        
+          
+ .entreprise { color: white;
+             position: relative;
+             top: -107px;
+             left: 690px; }   
+             
+ .offre {color: white;   
+         position: relative;
+         top: -125px;
+         left: 850px; }     
+         
+ .mutation {color: white;   
+            position: relative;
+            top: -145px;
+            left: 980px;}       
+
+ .contacter {color: white;   
+             position: relative;
+             top: -165px;
+             left: 1070px;}           
